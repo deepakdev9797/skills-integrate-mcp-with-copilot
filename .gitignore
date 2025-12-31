@@ -25,6 +25,9 @@
 *.log
 *.sql
 *.sqlite
+# Local DB files
+*.db
+mergington.db
 
 # OS generated files #
 ######################
